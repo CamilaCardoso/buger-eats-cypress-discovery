@@ -1,0 +1,36 @@
+{
+    "signup": {
+    "cpf_inv": {
+        "name": "CPF Inválido",
+        "cpf": "0000000001AA",
+        "email": "camilacpfinvalido@teste.com",
+        "whatsapp": "19989589898",
+        "address": {
+            "cep": "13418560",
+            "street": "Rua Regente Feijó",
+            "number": "123",
+            "compl": "bloco D",
+            "district": "Vila Monteiro",
+            "city": "Piracicaba/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Camila Cardoso de Oliveira",
+        "cpf": "00000000012",
+        "email": "teste.com",
+        "whatsapp": "19989589898",
+        "address": {
+            "cep": "13418560",
+            "street": "Rua Regente Feijó",
+            "number": "123",
+            "compl": "bloco D",
+            "district": "Vila Monteiro",
+            "city": "Piracicaba/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}

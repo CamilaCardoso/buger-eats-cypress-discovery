@@ -1,0 +1,17 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de Estudo do QA Ninja com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Camila Cardoso de Oliveira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.2.1",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^5.5.3",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
